@@ -12,8 +12,11 @@
   <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div> 
+<br> 
 
-<p align="center"> 
- <img src="https://th.bing.com/th/id/R.7c773d898bff5cc9aa43fdd3b13c0974?rik=zTlEMOSfXsk6OQ&pid=ImgRaw&r=0" whidth="400"/></p>  
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabisanttos&show_icons=true&theme=buefy" /> <img src="https://i.etsystatic.com/28734302/r/il/c7892e/3592623078/il_570xN.3592623078_ejzm.jpg" whidth="200" height="200"/>
+</p>
+
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D8BFD8&height=120&section=footer"/>
