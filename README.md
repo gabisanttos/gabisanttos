@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDA0DD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Maria+Gabriella;Sou+Estudante+de+Sistemas+de+Informação;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)  
 
    <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabisanttos&show_icons=true&theme=buefy" /> <img src="https://wallpapercave.com/wp/wp5055500.gif" whidth="210" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gabisanttos&show_icons=true&theme=buefy" /> <img src="https://media.licdn.com/dms/image/D5612AQGmW_CnCGU0gA/article-cover_image-shrink_720_1280/0/1672191293536?e=2147483647&v=beta&t=30L_1d3moj8gMYe4r4fSQ0txtSxpDRR6wFrqO5Y0V4U" whidth="210" height="190"/>
 </p>
 
   <div align="center">  
