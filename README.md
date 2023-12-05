@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDA0DD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Maria+Gabriella;Sou+Estudante+de+Sistemas+de+Informação;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)  
 
    <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabisanttos&show_icons=true&theme=buefy" /> <img src="https://www.visualartstudio.com.ve/img/programacion.gif" whidth="210" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gabisanttos&show_icons=true&theme=buefy" />
 </p>
 
   <div align="center">  
