@@ -4,6 +4,7 @@
 
    <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabisanttos&show_icons=true&theme=buefy" />
+      
 </p>
 
   <div align="center">  
